@@ -3,4 +3,4 @@
 ## NIM : 312210321
 ## Kelas : TI 22 A3
 ## Kelompok 3
-## Sudah mengeikuti uas
+## Sudah mengikuti uas
